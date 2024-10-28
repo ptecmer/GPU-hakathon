@@ -1,0 +1,1 @@
+The large quantity of shared memory and the memory bandwidth of Grace Hopper make these superchips an excellent fit for memory-hungry quantum simulations.
